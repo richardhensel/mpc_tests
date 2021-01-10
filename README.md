@@ -4,6 +4,8 @@ Some experiments with Model Predictive Control of a ground vehicle.
 
 Built with ROS2 Dashing. 
 
+Visualisation with rviz2.
+
 ## Build
 Beginning from this directory:
 ~~~
